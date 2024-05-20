@@ -1,0 +1,11 @@
+C:\Users\saraz\source\repos\UniMates\UniMates.Dtos\bin\Debug\net8.0\UniMates.Dtos.deps.json
+C:\Users\saraz\source\repos\UniMates\UniMates.Dtos\bin\Debug\net8.0\UniMates.Dtos.dll
+C:\Users\saraz\source\repos\UniMates\UniMates.Dtos\bin\Debug\net8.0\UniMates.Dtos.pdb
+C:\Users\saraz\source\repos\UniMates\UniMates.Dtos\obj\Debug\net8.0\UniMates.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saraz\source\repos\UniMates\UniMates.Dtos\obj\Debug\net8.0\UniMates.Dtos.AssemblyInfoInputs.cache
+C:\Users\saraz\source\repos\UniMates\UniMates.Dtos\obj\Debug\net8.0\UniMates.Dtos.AssemblyInfo.cs
+C:\Users\saraz\source\repos\UniMates\UniMates.Dtos\obj\Debug\net8.0\UniMates.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\saraz\source\repos\UniMates\UniMates.Dtos\obj\Debug\net8.0\UniMates.Dtos.dll
+C:\Users\saraz\source\repos\UniMates\UniMates.Dtos\obj\Debug\net8.0\refint\UniMates.Dtos.dll
+C:\Users\saraz\source\repos\UniMates\UniMates.Dtos\obj\Debug\net8.0\UniMates.Dtos.pdb
+C:\Users\saraz\source\repos\UniMates\UniMates.Dtos\obj\Debug\net8.0\ref\UniMates.Dtos.dll

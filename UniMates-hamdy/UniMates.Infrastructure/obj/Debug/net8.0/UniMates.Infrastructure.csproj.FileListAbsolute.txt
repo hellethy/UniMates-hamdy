@@ -1,0 +1,12 @@
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\bin\Debug\net8.0\UniMates.Infrastructure.deps.json
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\bin\Debug\net8.0\UniMates.Infrastructure.dll
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\bin\Debug\net8.0\UniMates.Infrastructure.pdb
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\obj\Debug\net8.0\UniMates.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\obj\Debug\net8.0\UniMates.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\obj\Debug\net8.0\UniMates.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\obj\Debug\net8.0\UniMates.Infrastructure.AssemblyInfo.cs
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\obj\Debug\net8.0\UniMates.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\obj\Debug\net8.0\UniMates.Infrastructure.dll
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\obj\Debug\net8.0\refint\UniMates.Infrastructure.dll
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\obj\Debug\net8.0\UniMates.Infrastructure.pdb
+C:\Users\saraz\source\repos\UniMates\UniMates.Infrastructure\obj\Debug\net8.0\ref\UniMates.Infrastructure.dll
