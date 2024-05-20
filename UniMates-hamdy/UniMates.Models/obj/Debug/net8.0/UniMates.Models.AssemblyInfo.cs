@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniMates.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7784dad062f9706ed1eb56c0820a67f95225f271")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniMates.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniMates.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

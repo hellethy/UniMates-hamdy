@@ -23,3 +23,15 @@ C:\Users\saraz\source\repos\UniMates\UniMates\UniMates.Models\obj\Debug\net8.0\U
 C:\Users\saraz\source\repos\UniMates\UniMates\UniMates.Models\obj\Debug\net8.0\refint\UniMates.Models.dll
 C:\Users\saraz\source\repos\UniMates\UniMates\UniMates.Models\obj\Debug\net8.0\UniMates.Models.pdb
 C:\Users\saraz\source\repos\UniMates\UniMates\UniMates.Models\obj\Debug\net8.0\ref\UniMates.Models.dll
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\bin\Debug\net8.0\UniMates.Models.deps.json
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\bin\Debug\net8.0\UniMates.Models.dll
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\bin\Debug\net8.0\UniMates.Models.pdb
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\UniMates.Models.csproj.AssemblyReference.cache
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\UniMates.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\UniMates.Models.AssemblyInfoInputs.cache
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\UniMates.Models.AssemblyInfo.cs
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\UniMates.Models.csproj.CoreCompileInputs.cache
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\UniMates.Models.dll
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\refint\UniMates.Models.dll
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\UniMates.Models.pdb
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\ref\UniMates.Models.dll

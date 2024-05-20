@@ -16,6 +16,8 @@ namespace UniMates.Domain
 
             base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+
+          
         }
         public DbSet<Language> Languages { get; set; }
         public DbSet<University> Universities { get; set; }
