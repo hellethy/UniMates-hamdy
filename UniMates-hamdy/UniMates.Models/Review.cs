@@ -8,12 +8,12 @@ namespace UniMates.Models
 {
     public class Review:BaseEntity
     {
-        public Guid StudentId { get; set; }
-        public Guid SessionId { get; set; }
-        public string Comment { get; set; }
+        public Guid StudentId { get; set; } = Guid.NewGuid();
+        public Guid SessionId { get; set; } = Guid.NewGuid();
+        public string ?Comment { get; set; }
         public int Rating { get; set; }
         // Navigation properties
-        public User Student { get; set; }
-        public Session session { get; set; }
+        public User ?Student { get; set; }
+        public Session ?session { get; set; }
     }
 }

@@ -35,3 +35,4 @@ D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\UniMates.Mode
 D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\refint\UniMates.Models.dll
 D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\UniMates.Models.pdb
 D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\ref\UniMates.Models.dll
+D:\UnimatesProject\UniMates-hamdy\UniMates.Models\obj\Debug\net8.0\UniMates.Models.sourcelink.json

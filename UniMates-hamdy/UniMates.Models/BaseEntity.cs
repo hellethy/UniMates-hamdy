@@ -11,16 +11,14 @@ namespace UniMates.Models
     public class BaseEntity
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public Guid Id { get; set; }
-        [Required]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public Guid Id { get; set; } = Guid.NewGuid();
+        [DatabaseGenerated(DatabaseGeneratedOption.Computed)]
         public DateTime? CreatedOn { get; set; } = DateTime.UtcNow;
         [DatabaseGenerated(DatabaseGeneratedOption.Computed)]
-        public DateTime? UpdatedOn { get; set; }
+        public DateTime? UpdatedOn { get; set; } = DateTime.UtcNow;
         [DatabaseGenerated(DatabaseGeneratedOption.Computed)]
-        public DateTime? DeletedOn { get; set; }
-        public string? CreatedBy { get; set; }
+        public DateTime? DeletedOn { get; set; } = DateTime.UtcNow;
+        public string? Createdby { get; set; }
         public string? UpdatedBy { get; set; }
         public bool IsDeleted { get; set; }
 

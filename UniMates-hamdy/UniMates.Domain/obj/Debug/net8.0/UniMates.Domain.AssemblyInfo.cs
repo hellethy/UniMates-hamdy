@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniMates.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7784dad062f9706ed1eb56c0820a67f95225f271")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04d44449e9d86438ad32f1f3b3102af25db2a3f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniMates.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniMates.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

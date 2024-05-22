@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "sO+Zj3MCrBHX+dUChX7okGsMYr6m9Savg31kh8PMbpWsCSyJTSF8mDS7mIsxsdmU8IqPsF4at5mlx+wkjbfrow==",
+  "dgSpecHash": "VgtMD6vSsmG01iiDdkUaqiwvbceKRS04naz0FyBQk7zZqp+Nh0Xum83YnL5XN98PAOtPYBmEC13areItOUjLIw==",
   "success": true,
   "projectFilePath": "D:\\UnimatesProject\\UniMates-hamdy\\UniMates.Dtos\\UniMates.Dtos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\.Net Devoloper\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\.Net Devoloper\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\.Net Devoloper\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\.Net Devoloper\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\.Net Devoloper\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -10,6 +10,7 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "UniMates.Domain": "1.0.0",
+          "UniMates.Dtos": "1.0.0",
           "UniMates.Models": "1.0.0"
         },
         "runtime": {
@@ -583,6 +584,14 @@
           "UniMates.Domain.dll": {}
         }
       },
+      "UniMates.Dtos/1.0.0": {
+        "dependencies": {
+          "UniMates.Models": "1.0.0"
+        },
+        "runtime": {
+          "UniMates.Dtos.dll": {}
+        }
+      },
       "UniMates.Models/1.0.0": {
         "dependencies": {
           "AutoMapper": "13.0.1"
@@ -992,6 +1001,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "UniMates.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UniMates.Dtos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

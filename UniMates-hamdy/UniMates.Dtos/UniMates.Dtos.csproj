@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\UniMates.Models\UniMates.Models.csproj" />
+  </ItemGroup>
+
 </Project>

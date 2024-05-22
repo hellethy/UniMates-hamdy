@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using UniMates.Dtos;
 using UniMates.Infrastructure.Contracts.IRepositories;
 using UniMates.Infrastructure.Repositories;
 using UniMates.Models;
@@ -11,30 +13,34 @@ namespace UniMates.Api.Controllers
     public class SubjectController : BaseApiController
     {
         private readonly ISubjectReposaitory _subjectReposaitory;
+        private readonly IMapper _mapper;
 
-        public SubjectController(ISubjectReposaitory subjectReposaitory)
+        public SubjectController(ISubjectReposaitory subjectReposaitory ,IMapper mapper)
         {
             _subjectReposaitory = subjectReposaitory;
+            _mapper = mapper;
         }
 
         // GET: api/Subjects
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Subject>>> GetAllSubjects()
+        public async Task<ActionResult<IEnumerable<SubjectToReturnDto>>> GetAllSubjects()
         {
             var subjects = await _subjectReposaitory.GetAllSubjectsAsync();
-            return Ok(subjects);
+             var subjectsToreturnDto = _mapper.Map<IEnumerable<SubjectToReturnDto>>(subjects);
+            return Ok(subjectsToreturnDto);
         }
 
         // GET: api/Subjects/session/{sessionId}
         [HttpGet("session/{sessionId}")]
-        public async Task<ActionResult<Subject>> GetComplaintBySessionId(Guid sessionId)
+        public async Task<ActionResult<SubjectToReturnDto>> GetComplaintBySessionId(Guid sessionId)
         {
             var subject = await _subjectReposaitory.GetSubjectBySessionIdAsync(sessionId);
             if (subject == null)
             {
                 return NotFound();
             }
-            return Ok(subject);
+            var subjectToReturnDto = _mapper.Map<SubjectToReturnDto>(subject);
+            return Ok(subjectToReturnDto);
         }
     }
 }

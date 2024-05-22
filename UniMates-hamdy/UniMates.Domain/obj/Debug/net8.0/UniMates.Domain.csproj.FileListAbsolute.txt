@@ -50,3 +50,4 @@ D:\UnimatesProject\UniMates-hamdy\UniMates.Domain\obj\Debug\net8.0\refint\UniMat
 D:\UnimatesProject\UniMates-hamdy\UniMates.Domain\obj\Debug\net8.0\UniMates.Domain.pdb
 D:\UnimatesProject\UniMates-hamdy\UniMates.Domain\obj\Debug\net8.0\UniMates.Domain.genruntimeconfig.cache
 D:\UnimatesProject\UniMates-hamdy\UniMates.Domain\obj\Debug\net8.0\ref\UniMates.Domain.dll
+D:\UnimatesProject\UniMates-hamdy\UniMates.Domain\obj\Debug\net8.0\UniMates.Domain.sourcelink.json

@@ -8,7 +8,7 @@ namespace UniMates.Models
 {
     public class Language : BaseEntity
     {
-        public string Name { get; set; }
+        public string ?Name { get; set; }
         //
         //Collection navigation property
         public virtual ICollection<UserLanguage>? UserLanguages { get; set; }

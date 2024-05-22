@@ -13,7 +13,7 @@ namespace UniMates.Models
 
         public Guid StudentId { get; set; }
         // navigation properties
-        public User Student { get; set; }
-        public Session Session { get; set; }
+        public User? Student { get; set; }
+        public Session? Session { get; set; }
     }
 }

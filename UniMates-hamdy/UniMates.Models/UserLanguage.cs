@@ -11,7 +11,7 @@ namespace UniMates.Models
         public Guid UserId { get; set; }
         public Guid LanguageId { get; set; }
         // Navigation properties
-        public User User { get; set; }
-        public Language Language { get; set; }
+        public User ?User { get; set; }
+        public Language ?Language { get; set; }
     }
 }

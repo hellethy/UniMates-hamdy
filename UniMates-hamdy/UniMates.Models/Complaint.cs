@@ -8,15 +8,13 @@ namespace UniMates.Models
 {
     public class Complaint : BaseEntity
     {
-       
+    
         public string ?Reason { get; set; }
-        public Guid SessionId { get; set; }
-        public Guid StudentId { get; set; }
-        public Guid TutorId { get; set; }
+        public Guid SessionId { get; set; } = Guid.NewGuid();
+        public Guid StudentId { get; set; } = Guid.NewGuid();
+        public Guid TutorId { get; set; } = Guid.NewGuid();
         public DateTime ComplaintDate { get; set; }
         public string? Status { get; set; }
-        // Navigation properties
-
         public Session? Session { get; set; }
         public User? Student { get; set; }
         public User? Tutor { get; set; }

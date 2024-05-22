@@ -12,7 +12,7 @@ namespace UniMates.Models
  
         public Guid CityId { get; set; }
         // Navigation properties
-        public City City { get; set; }
+        public City ?City { get; set; }
         //Collection navigation property
         public virtual ICollection<Faculty> Faculties { get; set; }
         public virtual ICollection<User> Users { get; set; }

@@ -8,16 +8,14 @@ namespace UniMates.Models
 {
     public class Subject : BaseEntity
     {
-        public string Name { get; set; }
-        /// <summary>
-        /// ok or not 
-        /// </summary>
-        public Guid FacultyId { get; set; }
-        public string ProfessorName { get; set; }
+        public string? Name { get; set; }
+ 
+        public Guid FacultyId { get; set; } = Guid.NewGuid();
+        public string ?ProfessorName { get; set; }
         public decimal PricePerHour { get; set; }
 
         // Navigation properties
-        public Faculty Faculty { get; set; }
+        public Faculty? Faculty { get; set; }
 
         //Collection navigation property
         public virtual ICollection<Session>? SubjectSessions { get; set; }

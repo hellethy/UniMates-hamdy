@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\UniMates.Domain\UniMates.Domain.csproj" />
+    <ProjectReference Include="..\UniMates.Dtos\UniMates.Dtos.csproj" />
     <ProjectReference Include="..\UniMates.Models\UniMates.Models.csproj" />
   </ItemGroup>
 

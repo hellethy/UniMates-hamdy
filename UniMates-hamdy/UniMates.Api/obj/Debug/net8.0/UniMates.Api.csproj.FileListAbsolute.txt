@@ -424,3 +424,6 @@ D:\UnimatesProject\UniMates-hamdy\UniMates.Api\obj\Debug\net8.0\refint\UniMates.
 D:\UnimatesProject\UniMates-hamdy\UniMates.Api\obj\Debug\net8.0\UniMates.Api.pdb
 D:\UnimatesProject\UniMates-hamdy\UniMates.Api\obj\Debug\net8.0\UniMates.Api.genruntimeconfig.cache
 D:\UnimatesProject\UniMates-hamdy\UniMates.Api\obj\Debug\net8.0\ref\UniMates.Api.dll
+D:\UnimatesProject\UniMates-hamdy\UniMates.Api\obj\Debug\net8.0\UniMates.Api.sourcelink.json
+D:\UnimatesProject\UniMates-hamdy\UniMates.Api\bin\Debug\net8.0\UniMates.Dtos.dll
+D:\UnimatesProject\UniMates-hamdy\UniMates.Api\bin\Debug\net8.0\UniMates.Dtos.pdb

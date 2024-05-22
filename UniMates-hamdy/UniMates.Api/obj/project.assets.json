@@ -1622,12 +1622,26 @@
           "bin/placeholder/UniMates.Domain.dll": {}
         }
       },
+      "UniMates.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "UniMates.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniMates.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniMates.Dtos.dll": {}
+        }
+      },
       "UniMates.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "AutoMapper": "13.0.1",
           "UniMates.Domain": "1.0.0",
+          "UniMates.Dtos": "1.0.0",
           "UniMates.Models": "1.0.0"
         },
         "compile": {
@@ -4592,6 +4606,11 @@
       "type": "project",
       "path": "../UniMates.Domain/UniMates.Domain.csproj",
       "msbuildProject": "../UniMates.Domain/UniMates.Domain.csproj"
+    },
+    "UniMates.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../UniMates.Dtos/UniMates.Dtos.csproj",
+      "msbuildProject": "../UniMates.Dtos/UniMates.Dtos.csproj"
     },
     "UniMates.Infrastructure/1.0.0": {
       "type": "project",

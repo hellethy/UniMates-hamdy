@@ -27,3 +27,6 @@ D:\UnimatesProject\UniMates-hamdy\UniMates.Infrastructure\obj\Debug\net8.0\UniMa
 D:\UnimatesProject\UniMates-hamdy\UniMates.Infrastructure\obj\Debug\net8.0\refint\UniMates.Infrastructure.dll
 D:\UnimatesProject\UniMates-hamdy\UniMates.Infrastructure\obj\Debug\net8.0\UniMates.Infrastructure.pdb
 D:\UnimatesProject\UniMates-hamdy\UniMates.Infrastructure\obj\Debug\net8.0\ref\UniMates.Infrastructure.dll
+D:\UnimatesProject\UniMates-hamdy\UniMates.Infrastructure\obj\Debug\net8.0\UniMates.Infrastructure.sourcelink.json
+D:\UnimatesProject\UniMates-hamdy\UniMates.Infrastructure\bin\Debug\net8.0\UniMates.Dtos.dll
+D:\UnimatesProject\UniMates-hamdy\UniMates.Infrastructure\bin\Debug\net8.0\UniMates.Dtos.pdb

@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniMates.Domain", "UniMates
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniMates.Models", "UniMates.Models\UniMates.Models.csproj", "{AF344007-15D7-4BE2-8749-B30DE7B5FA0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniMates.Infrastructure", "UniMates.Infrastructure\UniMates.Infrastructure.csproj", "{504DC037-3614-48BD-A736-8EAB90548431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniMates.Infrastructure", "UniMates.Infrastructure\UniMates.Infrastructure.csproj", "{504DC037-3614-48BD-A736-8EAB90548431}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniMates.Dtos", "UniMates.Dtos\UniMates.Dtos.csproj", "{DA5719FD-711D-4CD6-AAB8-93782FC1483F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniMates.Dtos", "UniMates.Dtos\UniMates.Dtos.csproj", "{DA5719FD-711D-4CD6-AAB8-93782FC1483F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

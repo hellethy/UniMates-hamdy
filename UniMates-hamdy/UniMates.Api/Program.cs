@@ -1,7 +1,9 @@
 
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using UniMates.Domain;
 using UniMates.Infrastructure.Contracts.IRepositories;
+using UniMates.Infrastructure.Mapper;
 using UniMates.Infrastructure.Repositories;
 
 namespace UniMates.Api
@@ -33,6 +35,7 @@ namespace UniMates.Api
            );
             // autoMapper
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+            builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

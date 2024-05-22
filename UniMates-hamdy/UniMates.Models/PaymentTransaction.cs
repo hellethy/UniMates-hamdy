@@ -15,10 +15,10 @@ namespace UniMates.Models
         public decimal Amount { get; set; }
         public DateTime TransactionDate { get; set; }
         // Navigation properties
-        public Session Session { get; set; }
-        public User Student { get; set; }
-        public User Tutor { get; set; }
-        public PaymentMethod PaymentMethod { get; set; }
+        public Session ?Session { get; set; }
+        public User ?Student { get; set; }
+        public User? Tutor { get; set; }
+        public PaymentMethod? PaymentMethod { get; set; }
 
     }
 }
